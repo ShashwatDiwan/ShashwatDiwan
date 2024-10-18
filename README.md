@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shashwat.diwan23@vit.edu**
 
-- ⚡ Fun fact **I strive for Perfection !**
+- ⚡ **I strive for Perfection !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
