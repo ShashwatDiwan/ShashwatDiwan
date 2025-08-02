@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwatdiwan" alt="shashwatdiwan" /></a> </p>
 
-- 🌱 I’m currently learning **Java programming and DSA**
+- 🌱 I’m currently learning **Java Spring Boot Backend Development and DSA**
 
 - 📫 How to reach me **shashwat.diwan23@vit.edu**
 
