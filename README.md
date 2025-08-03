@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot Backend Development and DSA**
 
-- 📫 How to reach me **shashwat.diwan23@vit.edu**
+- 📫 How to reach me **shashh.code@gmail.com**
 
 - ⚡ **I strive for Perfection !**
 
